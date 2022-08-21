@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me
+
+- Hey there! I'm Chrispine. I'm based in Nairobi, Kenya.
+- I'm interested in distributed systems (and their formal verification, using tools like TLA+).
+- I'm relatively comfortable with Python and I consider myself an "advanced beginner" in Rust.
 
 <!--
 **chrischiedo/chrischiedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
