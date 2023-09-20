@@ -1,9 +1,9 @@
 ### About me
 
 - Hey there! I'm Chrispine. I'm based in Nairobi, Kenya
-- Interests: Distributed Systems, Cloud Computing, Serverless Technologies, Blockchain
-- Languages: Python, Java, Rust
-- Frameworks: Django, FastAPI, Spring Boot, Actix-web
+- Interests: Distributed Systems, Programming Languages, Cloud-Native Applications/Serverless Technologies, Technical Documentation
+- Languages: Java, Python, Rust
+- Frameworks: Spring Boot, Quarkus, Django, FastAPI, Actix-web
 - More @ [chiedo.dev](https://www.chiedo.dev/) 
 
 <!--
