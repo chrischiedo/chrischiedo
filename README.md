@@ -4,7 +4,7 @@
 - Interests: Distributed Systems, Programming Languages, Cloud-Native Applications/Serverless Technologies, Technical Documentation
 - Languages: Java, Python, Rust
 - Frameworks: Spring Boot, Quarkus, Django, FastAPI, Actix-web
-- More @ [chiedo.dev](https://www.chiedo.dev/) 
+- More @ [chrischiedo.github.io](https://chrischiedo.github.io/)
 
 <!--
 **chrischiedo/chrischiedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
