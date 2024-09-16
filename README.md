@@ -1,9 +1,8 @@
 ### About me
 
 - Hey there! I'm Chrispine. I'm based in Nairobi, Kenya
-- Interests: Distributed Systems, Programming Languages, Cloud-Native Applications/Serverless Technologies, Technical Documentation
+- Interests: Distributed Systems, Programming Languages/Compilers, Cloud-Native Applications/Serverless Technologies, Technical Documentation
 - Languages: Java, Python, Rust
-- Frameworks: Spring Boot, Quarkus, Django, FastAPI, Actix-web
 - More @ [chrischiedo.github.io](https://chrischiedo.github.io/)
 
 <!--
