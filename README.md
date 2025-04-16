@@ -1,7 +1,7 @@
 ### About me
 
 - Hey there! I'm Chrispine, a software engineer based in Nairobi, Kenya
-- Interests: Distributed/Backend Systems, Programming Languages/Compilers, Cloud-native Applications/Serverless Technologies, Technical Documentation
+- Interests: Distributed/Backend Systems, Programming Languages/Compilers, Cloud-native Applications/Serverless Technologies, Technical Writing
 - Languages: Rust, Java, Python
 - More @ [chrischiedo.github.io](https://chrischiedo.github.io/)
 
