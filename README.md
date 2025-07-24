@@ -11,6 +11,7 @@
 
 ### Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Building a simple MCP Server in Java](https://chrischiedo.github.io/java-mcp-server/)
 - [Building a minimal Scheme Interpreter in Rust](https://chrischiedo.github.io/scheme-interpreter-rust/)
 - [Get started with Quarkus by building a simple REST API](https://chrischiedo.github.io/quarkus-rest-api-tutorial/)
 - [How to deploy a Spring Boot application on a local Kubernetes cluster with minikube](https://chrischiedo.github.io/java-spring-boot-kubernetes-minikube/)
