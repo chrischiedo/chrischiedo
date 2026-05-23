@@ -5,7 +5,7 @@
 <!-- INTEREEST-LIST:START -->
 - Web Backend/Distributed Systems
 - Programming Languages/Compilers
-- Cloud-native applications/Serverless technologies
+- Databases
 - Technical writing
 <!-- INTEREEST-LIST:END -->
 
