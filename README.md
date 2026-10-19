@@ -3,8 +3,8 @@
 
 ### Technical Interests:
 <!-- INTEREEST-LIST:START -->
-- Databases
 - Distributed Systems
+- Databases
 - Programming Languages/Compilers
 - Technical writing
 <!-- INTEREEST-LIST:END -->
