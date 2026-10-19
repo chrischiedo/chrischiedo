@@ -3,9 +3,9 @@
 
 ### Technical Interests:
 <!-- INTEREEST-LIST:START -->
-- Web Backend/Distributed Systems
-- Programming Languages/Compilers
 - Databases
+- Distributed Systems
+- Programming Languages/Compilers
 - Technical writing
 <!-- INTEREEST-LIST:END -->
 
